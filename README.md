@@ -1,7 +1,6 @@
 # AegisFormer-IDS: Fast FT-Transformer for Real-Time Intrusion Detection on NSL-KDD
 
 [![Paper](https://img.shields.io/badge/Zenodo-DOI-blue?logo=zenodo)](https://doi.org/10.5281/zenodo.18031860)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10bMm5RDcJ2RGGSQA4bsQBQPSzubpiv4v)
 
 ## Citation & Publication
