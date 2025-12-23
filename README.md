@@ -71,5 +71,4 @@ Lecturer, School of Computing, Arden University, Coventry, United Kingdom
 Lecturer, School of Computing, Pearson, London, United Kingdom
 Lecturer, School of Computing, IVY College of Management Sciences, Lahore, Pakistan
 License
-This project is licensed under the MIT License – see the LICENSE file for details.
-textThis version is fully professional, clean, and matches the style of your paper. The author sec
+This project is licensed under the MIT License.
