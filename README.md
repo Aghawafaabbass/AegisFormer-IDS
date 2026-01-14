@@ -2,6 +2,7 @@
 
 [![Paper](https://img.shields.io/badge/Zenodo-DOI-blue?logo=zenodo)](https://doi.org/10.5281/zenodo.18031860)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10bMm5RDcJ2RGGSQA4bsQBQPSzubpiv4v)
+[![DOI](https://zenodo.org/badge/1121644655.svg)](https://doi.org/10.5281/zenodo.18242483)
 
 ## Citation & Publication
 
